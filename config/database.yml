@@ -1,0 +1,6 @@
+development:
+  adapter: mysql
+  database: blog
+  username: root
+  password: root
+  host: localhost
